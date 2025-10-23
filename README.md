@@ -24,6 +24,10 @@ Actualmente, estoy enfocado en mi desarrollo profesional para convertirme en un 
 -   Proactividad
 -   Responsabilidad y Honestidad
 
+## 📈 My GitHub Stats
+
+[![AHJimmy06's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHJimmy06&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🚀 Proyectos
 
 ### Presentación de mi equipo
