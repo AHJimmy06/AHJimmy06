@@ -7,15 +7,34 @@ Actualmente, estoy enfocado en mi desarrollo profesional para convertirme en un 
 
 ## 💻 Tecnologías
 
+
+### Front-end
+
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/razor-pages" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Razor-512BD4?style=for-the-badge&logo=microsoft-net&logoColor=white" alt="razor"/> </a>
-  <a href="https://supabase.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> </a>
 </p>
 
-## Lenguajes
+### Back-end
 
+<p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> </a>
+  <a href="https://supabase.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase"/> </a>
+</p>
+
+### Frameworks CSS
+
+<p align="left">
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> </a>
+</p>
+## Lenguajes
+### Lenguajes Base
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> </a>
+</p>
+### Otros Lenguajes
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> </a>
