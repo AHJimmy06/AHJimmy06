@@ -5,13 +5,22 @@ Soy un estudiante de la Universidad Técnica de Ambato, apasionado por el desarr
 Actualmente, estoy enfocado en mi desarrollo profesional para convertirme en un desarrollador Full Stack. Mis principales áreas de interés son la Ingeniería de Datos y el Machine Learning. Busco activamente oportunidades y proyectos relacionados con la Inteligencia Artificial, con un especial interés en aplicaciones de aprendizaje guiado.
 
 
-## 💻 Tecnologías y Lenguajes
+## 💻 Tecnologías
 
-| Área      | Tecnologías/Lenguajes |
-|-----------|-----------------------|
-| Front-end | React, Razor          |
-| Back-end  | Supabase              |
-| Lenguajes | Java, TypeScript      |
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/razor-pages" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Razor-512BD4?style=for-the-badge&logo=microsoft-net&logoColor=white" alt="razor"/> </a>
+  <a href="https://supabase.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> </a>
+</p>
+
+## Lenguajes
+
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/> </a>
+</p>
 
 ## 🌱 Habilidades Blandas
 
