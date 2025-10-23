@@ -29,9 +29,6 @@ Actualmente, estoy enfocado en mi desarrollo profesional para convertirme en un 
 [![AHJimmy06's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHJimmy06&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHJimmy06&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AHJimmy06)](https://git.io/streak-stats)
-
 ## 🚀 Proyectos
 
 ### Presentación de mi equipo
