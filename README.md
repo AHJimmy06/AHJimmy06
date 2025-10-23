@@ -45,6 +45,7 @@ Actualmente, estoy enfocado en mi desarrollo profesional para convertirme en un 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
 </p>
+
 ## 🌱 Habilidades Blandas
 
 -   Pensamiento Crítico y Estratégico
