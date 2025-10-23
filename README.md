@@ -64,7 +64,7 @@ Actualmente, estoy enfocado en mi desarrollo profesional para convertirme en un 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHJimmy06&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ## 🚀 Proyectos
 
-### Presentación de mi equipo
+### VIBE CODERS
 
 -   **Repositorio:** [AHJimmy06/introduccion](https://github.com/AHJimmy06/introduccion.git)
 -   **Publicación:** [introduccion.vercel.app](https://introduccion.vercel.app/)
